@@ -129,6 +129,38 @@ This repository contains:
 - Contribute to the C3 ecosystem
 - Share knowledge with the community
 
+## 🤝 Contributing
+
+Want to share your C3 learning journey? Contributions are welcome! 
+
+### How to Contribute
+
+1. **Fork** this repository
+2. **Create a day folder** following the naming convention: `day-XX` (e.g., `day-01`, `day-02`)
+3. **Add your learning or cool code** inside your day folder:
+```
+   day-XX/
+   ├── README.md          # What you learned today
+   ├── example.c3         # Your code examples
+   └── notes.md           # Optional: Additional notes
+```
+4. **Structure your daily README** with:
+   - 📚 Topic/Concept learned
+   - 💡 Key takeaways
+   - 🔧 Code examples
+   - 🔗 Resources used
+5. **Submit a Pull Request** with a clear description
+
+### Contribution Guidelines
+
+- ✅ Code should compile with the latest C3 compiler
+- ✅ Include comments explaining complex logic
+- ✅ Add a brief description in your day's README
+- ✅ Feel free to explore any C3 topic (basics, advanced, experiments)
+- ✅ Share your learning resources and insights
+
+**Let's learn C3 together, one day at a time! 🚀**
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -145,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Learning is a journey, not a destination. Happy coding! 🚀*
 
-***Written BY Muneeb Ahmad ❤️ from <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png" alt="Pakistan" width="30" height="30"> (https://github.com/officialmuneebahmad)***
+***Written BY Muneeb Ahmad  from <img src="https://flagsweb.com/vector/SVG/Flag_of_Pakistan.svg" alt="Pakistan" width="10" height="10"> (https://github.com/officialmuneebahmad)***
