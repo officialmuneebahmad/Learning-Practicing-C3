@@ -1,5 +1,6 @@
+// Day 14 of 30 
 import std::io;
-
+// Error Handling : Rethrow (!) 
 fn int? get_number(bool fail) {
     if (fail) return io::INVALID_FORMAT?;
     return 42;
