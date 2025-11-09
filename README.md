@@ -1,10 +1,6 @@
 # Learning & Practicing C3
 
-# <img src="https://c3-lang.org/c3-logo.svg" alt="C3" width="35"> Learning & Practicing C3 <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png" alt="Pakistan" width="30" height="20">
-
-[![C3 Language](https://img.shields.io/badge/C3-0.7.0-blue.svg?style=flat-square)](https://c3-lang.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
-[![Made in Pakistan](https://img.shields.io/badge/Made%20in-Pakistan-01411C?style=flat-square)](https://en.wikipedia.org/wiki/Pakistan)
+# <img src="https://c3-lang.org/c3-logo.svg" alt="C3" width="35"> Learning & Practicing C3 
 
 [![C3 Language](https://img.shields.io/badge/Language-C3-blue.svg)](https://c3-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -151,4 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Learning is a journey, not a destination. Happy coding! 🚀*
 
-***Written BY Muneeb Ahmad ❤️ from [![Made in Pakistan](https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png)](https://github.com/officialmuneebahmad)***
+***Written BY Muneeb Ahmad ❤️ from <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png" alt="Pakistan" width="30" height="20"> (https://github.com/officialmuneebahmad)***
