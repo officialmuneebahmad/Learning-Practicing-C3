@@ -136,10 +136,10 @@ Want to share your C3 learning journey? Contributions are welcome!
 ### How to Contribute
 
 1. **Fork** this repository
-2. **Create a day folder** following the naming convention: `day-XX` (e.g., `day-01`, `day-02`)
+2. **Create a day folder** following the naming convention: `day-XX-Topic-Name[Any]`
 3. **Add your learning or cool code** inside your day folder:
 ```
-   day-XX/
+   day-XX-topic/
    ├── README.md          # What you learned today
    ├── example.c3         # Your code examples
    └── notes.md           # Optional: Additional notes
@@ -177,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Learning is a journey, not a destination. Happy coding! 🚀*
 
-***Written BY Muneeb Ahmad  from <img src="https://flagsweb.com/vector/SVG/Flag_of_Pakistan.svg" alt="Pakistan" width="10" height="10"> (https://github.com/officialmuneebahmad)***
+***Written BY Muneeb Ahmad  from <img src="https://flagsweb.com/vector/SVG/Flag_of_Pakistan.svg" alt="Pakistan" width="15" height="15"> (https://github.com/officialmuneebahmad)***
