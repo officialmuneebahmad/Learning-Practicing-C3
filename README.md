@@ -177,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Learning is a journey, not a destination. Happy coding! 🚀*
 
-***Written BY Muneeb Ahmad  from <img src="https://flagsweb.com/vector/SVG/Flag_of_Pakistan.svg" alt="Pakistan" width="10" height="10"> (https://github.com/officialmuneebahmad)***
+***Written BY Muneeb Ahmad  from <img src="https://flagsweb.com/vector/SVG/Flag_of_Pakistan.svg" alt="Pakistan" width="15" height="15"> (https://github.com/officialmuneebahmad)***
