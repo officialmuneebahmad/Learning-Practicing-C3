@@ -1,5 +1,11 @@
 # Learning & Practicing C3
 
+# <img src="https://c3-lang.org/c3-logo.svg" alt="C3" width="35"> Learning & Practicing C3 <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png" alt="Pakistan" width="30" height="20">
+
+[![C3 Language](https://img.shields.io/badge/C3-0.7.0-blue.svg?style=flat-square)](https://c3-lang.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
+[![Made in Pakistan](https://img.shields.io/badge/Made%20in-Pakistan-01411C?style=flat-square)](https://en.wikipedia.org/wiki/Pakistan)
+
 [![C3 Language](https://img.shields.io/badge/Language-C3-blue.svg)](https://c3-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -46,31 +52,20 @@ iwr -useb https://raw.githubusercontent.com/c3lang/c3c/refs/heads/master/install
 # Download and extract the latest release
 # Follow platform-specific instructions at https://c3-lang.org
 ```
+**OR JUST FOLLOW THE OFFICIAL DOCS**
 
 ### Verify Installation
 ```bash
 c3c --version
 ```
 
-## 📚 Repository Structure
+## 🎯 Everyday Learning -
 
-```
-Learning-Practicing-C3/
-├── basics/              # Basic syntax and concepts
-├── data-structures/     # Common data structures in C3
-├── algorithms/          # Algorithm implementations
-├── examples/            # Practical examples and demos
-├── exercises/           # Practice problems and solutions
-└── projects/            # Mini projects and applications
-```
+### Phase 1 => Day 1 - 10: Fundamentals / Basics
 
-## 🎯 Learning Path
+### Phase 2 => Day 11 - 20: Intermediate Concepts 
 
-### Phase 1: Fundamentals
-
-### Phase 2: Intermediate Concepts
-
-### Phase 3: Keep Learning & Keep Building...
+### Phase 3 => Day 21 - 30 and so on: Advance to Mastery => Keep Learning & Keep Building...
 
 ## 💡 Example Code
 
@@ -83,35 +78,6 @@ import std::io;
 fn void main()
 {
     io::printn("Hello, World!");
-}
-```
-
-### Generic Stack Example
-
-```c3
-module stack(<Type>);
-
-struct Stack
-{
-    Type* elements;
-    usz count;
-    usz capacity;
-}
-
-fn void Stack.push(&self, Type element) { ... }
-fn Type Stack.pop(&self) { ... }
-
-// Usage:
-import stack;
-
-alias IntStack = Stack(<int>);
-alias DoubleStack = Stack(<double>);
-
-fn void main()
-{
-    IntStack int_stack;
-    int_stack.push(42);
-    int value = int_stack.pop();
 }
 ```
 
@@ -184,4 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Note**: C3 is still in active development. Some features may change as the language evolves.
 
 *Learning is a journey, not a destination. Happy coding! 🚀*
+
 ***Written BY Muneeb Ahmad ❤️ from [![Made in Pakistan](https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/pakistan-flag-icon.png)](https://github.com/officialmuneebahmad)***
